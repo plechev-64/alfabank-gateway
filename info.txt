@@ -1,0 +1,8 @@
+Name: Alfabank Gateway;
+Parent Addon: user-balance;
+Version: 1.1.2;
+Support Core: 16.24.0;
+ItemID: 24034;
+Description: Подключение сайта к интернет-эквайрингу Альфабанка (ФЗ-54);
+Author: Плечёв Андрей;
+Author URI: http://codeseller.ru/;
